@@ -1,0 +1,11 @@
+sounddevice
+numpy
+requests
+python-dotenv
+google-generativeai
+pyttsx3
+openai-whisper
+pyaudio
+beautifulsoup4
+readability-lxml
+newspaper3k
